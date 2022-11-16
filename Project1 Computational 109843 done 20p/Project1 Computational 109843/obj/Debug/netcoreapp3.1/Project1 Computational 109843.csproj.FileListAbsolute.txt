@@ -1,0 +1,70 @@
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.exe
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.deps.json
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.json
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfo.cs
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Student\source\repos\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.genruntimeconfig.cache
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.exe
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.deps.json
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.json
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.dev.json
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.AssemblyReference.cache
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfoInputs.cache
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfo.cs
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Cansu\Desktop\Project1 Computational 109843\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.genruntimeconfig.cache
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.exe
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.deps.json
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.json
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.dev.json
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.AssemblyReference.cache
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfoInputs.cache
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfo.cs
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Cansu\Desktop\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.genruntimeconfig.cache
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.exe
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.deps.json
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.json
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.dev.json
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.AssemblyReference.cache
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfoInputs.cache
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfo.cs
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.genruntimeconfig.cache
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.AssemblyReference.cache
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfoInputs.cache
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.AssemblyInfo.cs
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.exe
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.deps.json
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.json
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.runtimeconfig.dev.json
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.dll
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\bin\Debug\netcoreapp3.1\Project1 Computational 109843.pdb
+C:\Users\Cansu\Desktop\WSB\Computational methods\Project1 Computational 109843 done 20p\Project1 Computational 109843\obj\Debug\netcoreapp3.1\Project1 Computational 109843.genruntimeconfig.cache
